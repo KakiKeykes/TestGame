@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using Newtonsoft.Json;
 using UnityEngine;
 
 namespace Assets.Scripts.Save
